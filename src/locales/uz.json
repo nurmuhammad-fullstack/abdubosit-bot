@@ -1,0 +1,77 @@
+{
+  "welcome": "Assalomu alaykum! Iltimos, tilni tanlang:",
+  "language_selected": "✅ Til tanlandi: O'zbekcha",
+
+  "main_menu": {
+    "title": "Asosiy menyu. Kerakli bo'limni tanlang:",
+    "about": "👨‍💻 Men haqimda",
+    "services": "🎨 Xizmatlar",
+    "portfolio": "📂 Portfolio",
+    "contact": "📞 Bog'lanish"
+  },
+
+  "about": {
+    "text": "👨‍💻 *Abduvaliev Abdubosit*\n\n📍 Joylashuv: Toshkent\n⏳ Tajriba: 4+ yil\n💼 Rol: Grafik va Web Dizayner\n\nMen brendlar uchun zamonaviy va kreativ dizayn yechimlari yarataman. Logo, banner, veb-dizayn va boshqa ko'p narsalar bo'yicha yordam bera olaman."
+  },
+
+  "services": {
+    "title": "🎨 *Xizmatlar*\n\nQuyidagi xizmatlardan birini tanlang:",
+    "logo": {
+      "title": "🖋 Logo Dizayn",
+      "text": "🖋 *Logo Dizayn*\n\nBrendingizning yuzi bo'lgan professional logolar yarataman.\n\n✅ Unique konsepsiya\n✅ Vektorli format (AI, EPS, SVG)\n✅ PNG va PDF versiyalar\n✅ 3 ta variant taklif\n✅ Cheksiz o'zgartirish\n\n⏱ Muddat: 3–5 kun\n💰 Narx: $50 dan boshlab"
+    },
+    "smm": {
+      "title": "📱 SMM Dizayn",
+      "text": "📱 *Social Media Dizayn*\n\nInstagram, Telegram, Facebook uchun professional kontent dizayni.\n\n✅ Post, story, highlight cover\n✅ Brand uslubiga moslangan\n✅ Tayyor shablon paketi\n✅ Tezkor yetkazib berish\n\n⏱ Muddat: 1–2 kun\n💰 Narx: $20 dan boshlab"
+    },
+    "web": {
+      "title": "🌐 Veb Dizayn",
+      "text": "🌐 *Veb Dizayn*\n\nZamonaviy va foydalanuvchiga qulay veb-sayt dizaynlari.\n\n✅ UI/UX dizayn\n✅ Figma da prototip\n✅ Responsive (mobil moslashgan)\n✅ Zamonaviy trendlar\n\n⏱ Muddat: 5–10 kun\n💰 Narx: $100 dan boshlab"
+    },
+    "poster": {
+      "title": "🎭 Poster & Banner",
+      "text": "🎭 *Poster & Banner Dizayn*\n\nTadbir, reklama va e'lon uchun professional dizaynlar.\n\n✅ Print va digital formatlar\n✅ Yuqori sifatli eksport\n✅ Har qanday o'lcham\n✅ Tez bajarish\n\n⏱ Muddat: 1–2 kun\n💰 Narx: $15 dan boshlab"
+    }
+  },
+
+  "portfolio": {
+    "title": "📂 *Portfolio*\n\nKategoriyani tanlang:",
+    "logos":      "🖋 Logolar",
+    "posters":    "🎭 Posterlar",
+    "smm":        "📱 SMM Dizayn",
+    "infographics":"📊 Infografika",
+    "loading":    "⏳ Rasmlar yuklanmoqda...",
+    "empty":      "📭 Bu kategoriyada hali ishlar yo'q.",
+    "count":      "📂 Jami {count} ta ish"
+  },
+
+  "contact": {
+    "text": "📞 *Bog'lanish*\n\n💬 Telegram: @ronniee\\_a\n📸 Instagram: abdubosit\\_dsg\n📱 WhatsApp: +998 (99) 059 69-39\n\n✍️ Yoki quyida buyurtma qoldiring 👇",
+    "leave_request": "📝 Buyurtma qoldirish"
+  },
+
+  "lead": {
+    "start": "📝 Buyurtma qoldirish\n\nBir nechta savol beraman. Istalgan vaqtda /cancel deb yozsangiz bekor qilishingiz mumkin.",
+    "ask_name": "1️⃣ Ismingiz nima?",
+    "ask_design": "2️⃣ Qanday dizayn kerak?\n\n_(Masalan: logo, banner, SMM post va h.k.)_",
+    "ask_contact": "3️⃣ Telegram username yoki telefon raqamingiz:\n\n_(Masalan: @username yoki +998901234567)_",
+    "success": "✅ *Rahmat, {name}!*\n\nBuyurtmangiz qabul qilindi. Tez orada siz bilan bog'lanamiz! 🚀",
+    "cancelled": "❌ Buyurtma bekor qilindi. Asosiy menyuga qaytdingiz.",
+    "invalid_contact": "⚠️ Iltimos, to'g'ri username (@username) yoki telefon raqam kiriting."
+  },
+
+  "admin_lead": "📥 *Yangi buyurtma!*\n\n👤 Ism: {name}\n🎨 Dizayn: {design}\n📞 Kontakt: {contact}\n⏰ Vaqt: {time}",
+
+  "buttons": {
+    "back": "⬅️ Orqaga",
+    "main_menu": "🏠 Asosiy menyu",
+    "cancel": "❌ Bekor qilish",
+    "leave_request": "📝 Buyurtma qoldirish"
+  },
+
+  "errors": {
+    "general": "⚠️ Xatolik yuz berdi. Iltimos, qayta urinib ko'ring.",
+    "not_found": "❌ Ma'lumot topilmadi."
+  }
+}
+

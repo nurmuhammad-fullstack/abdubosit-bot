@@ -1,0 +1,77 @@
+{
+  "welcome": "Hello! Please choose your language:",
+  "language_selected": "✅ Language set: English",
+
+  "main_menu": {
+    "title": "Main menu. Please choose a section:",
+    "about": "👨‍💻 About Me",
+    "services": "🎨 Services",
+    "portfolio": "📂 Portfolio",
+    "contact": "📞 Contact"
+  },
+
+  "about": {
+    "text": "👨‍💻 *Abduvaliev Abdubosit*\n\n📍 Location: Tashkent\n⏳ Experience: 4+ years\n💼 Role: Graphic & Web Designer\n\nI create modern and creative design solutions for brands. I can help with logos, banners, web design, and much more."
+  },
+
+  "services": {
+    "title": "🎨 *Services*\n\nChoose a service to learn more:",
+    "logo": {
+      "title": "🖋 Logo Design",
+      "text": "🖋 *Logo Design*\n\nI create professional logos — the face of your brand.\n\n✅ Unique concept\n✅ Vector format (AI, EPS, SVG)\n✅ PNG and PDF versions\n✅ 3 concept options\n✅ Unlimited revisions\n\n⏱ Turnaround: 3–5 days\n💰 Price: from $50"
+    },
+    "smm": {
+      "title": "📱 SMM Design",
+      "text": "📱 *Social Media Design*\n\nProfessional content design for Instagram, Telegram, Facebook.\n\n✅ Posts, stories, highlight covers\n✅ Matched to your brand style\n✅ Ready-to-use template pack\n✅ Fast delivery\n\n⏱ Turnaround: 1–2 days\n💰 Price: from $20"
+    },
+    "web": {
+      "title": "🌐 Web Design",
+      "text": "🌐 *Web Design*\n\nModern and user-friendly website designs.\n\n✅ UI/UX design\n✅ Figma prototype\n✅ Responsive (mobile-ready)\n✅ Modern trends\n\n⏱ Turnaround: 5–10 days\n💰 Price: from $100"
+    },
+    "poster": {
+      "title": "🎭 Poster & Banner",
+      "text": "🎭 *Poster & Banner Design*\n\nProfessional designs for events and advertising.\n\n✅ Print and digital formats\n✅ High-quality export\n✅ Any size\n✅ Fast execution\n\n⏱ Turnaround: 1–2 days\n💰 Price: from $15"
+    }
+  },
+
+  "portfolio": {
+    "title": "📂 *Portfolio*\n\nChoose a category:",
+    "logos":       "🖋 Logos",
+    "posters":     "🎭 Posters",
+    "smm":         "📱 SMM Design",
+    "infographics":"📊 Infographics",
+    "loading":     "⏳ Loading images...",
+    "empty":       "📭 No works in this category yet.",
+    "count":       "📂 Total {count} works"
+  },
+
+  "contact": {
+    "text": "📞 *Contact*\n\n💬 Telegram: @ronniee\\_a\n📸 Instagram: abdubosit\\_dsg\n📱 WhatsApp: +998 (99) 059 69-39\n\n✍️ Or leave a request below 👇",
+    "leave_request": "📝 Leave a Request"
+  },
+
+  "lead": {
+    "start": "📝 Leave a Request\n\nI'll ask you a few questions. Type /cancel at any time to stop.",
+    "ask_name": "1️⃣ What is your name?",
+    "ask_design": "2️⃣ What kind of design do you need?\n\n_(e.g. logo, banner, SMM post, etc.)_",
+    "ask_contact": "3️⃣ Your Telegram username or phone number:\n\n_(e.g. @username or +998901234567)_",
+    "success": "✅ *Thank you, {name}!*\n\nYour request has been received. We'll be in touch soon! 🚀",
+    "cancelled": "❌ Request cancelled. You're back at the main menu.",
+    "invalid_contact": "⚠️ Please enter a valid username (@username) or phone number."
+  },
+
+  "admin_lead": "📥 *New Request!*\n\n👤 Name: {name}\n🎨 Design: {design}\n📞 Contact: {contact}\n⏰ Time: {time}",
+
+  "buttons": {
+    "back": "⬅️ Back",
+    "main_menu": "🏠 Main Menu",
+    "cancel": "❌ Cancel",
+    "leave_request": "📝 Leave a Request"
+  },
+
+  "errors": {
+    "general": "⚠️ An error occurred. Please try again.",
+    "not_found": "❌ Data not found."
+  }
+}
+
